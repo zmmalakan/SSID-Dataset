@@ -1,2 +1,3 @@
 # SEQUENTIAL STORYTELLING IMAGE DATASET (SSID)
 SEQUENTIAL STORYTELLING IMAGE DATASET (SSID)
+![example story screen capture](assets/glacierdemo.gif)
