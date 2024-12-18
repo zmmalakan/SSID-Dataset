@@ -18,11 +18,11 @@ The SSID dataset is comprised of 17,365 images, which resulted in a total of 3,4
 If you use this dataset for your research or project, please cite:
 
       @ARTICLE{10177150,
-            author    = {Malakan, Zainy M. and Anwar, Saeed and Hassan, Ghulam Mubashar and Mian, Ajmal},
+            author    ={Malakan, Zainy M. and Anwar, Saeed and Hassan, Ghulam Mubashar and Mian, Ajmal},
             journal   ={IEEE Access}, 
-            title     = {Sequential Vision to Language as Story: A Storytelling Dataset and Benchmarking},
-            year      = {2023},
+            title     ={Sequential Vision to Language as Story: A Storytelling Dataset and Benchmarking},
+            year      ={2023},
             volume    ={11},
             number    ={},
-            pages     = {70805-70818}
+            pages     ={70805-70818}
       }
