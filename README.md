@@ -8,3 +8,7 @@ Visual storytelling refers to the manner of describing a set of images rather th
 
 # Instructions: 
 The SSID dataset is comprised of 17,365 images, which resulted in a total of 3,473 unique sets of five images. Each set of images is associated with four ground truths, resulting in a total of 13,892 unique ground truths (i.e., written stories). And each ground truth is composed of five connected sentences written in the form of a story. Please go through the attached [PDF file for additional Instructions and details.](assets/SSID_Instructions.pdf)
+
+
+# SSID Dataset
+[You can download the dataset from here..](https://drive.google.com/drive/folders/1XDK6wVReQziJrJXakgi3_IgvKm8BnYCR?usp=drive_link)
