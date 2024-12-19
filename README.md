@@ -1,5 +1,5 @@
 # SEQUENTIAL STORYTELLING IMAGE DATASET (SSID)
-The research paper is published in IEEE Access: [Sequential Vision to Language as Story: A Storytelling Dataset and Benchmarking](https://ieeexplore.ieee.org/document/10177150/).
+The dataset is part of a research paper published in IEEE Access: [Sequential Vision to Language as Story: A Storytelling Dataset and Benchmarking](https://ieeexplore.ieee.org/document/10177150/).
 
 
 ![example story screen capture](assets/Image_Image.jpeg) 
